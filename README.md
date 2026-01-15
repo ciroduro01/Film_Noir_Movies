@@ -34,6 +34,7 @@ A distribution analysis showing the density of Noir productions. The data confir
 A comparative bar chart showing Average Noir Scores by Studio. 
 * **Findings:** While "Major" studios like **Warner Bros** produced the highest volume, independent or smaller productions (like **British Lion** and **PRC**) achieved higher "Intensity" scores, often due to their focus on the gritty, low-budget "B-movie" style that defined the aesthetic.
 
+![Film Noir Data Analysis Dashboard](Film_Noir_Dashboard.png)
 ---
 
 ## How to Use
